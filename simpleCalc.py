@@ -4,7 +4,7 @@
 
 a=int(input("Enter the first number:"))
 b=int(input("Enter the second number:"))
-op=input("Enter: \n + to add. \n - to subtract. \n * to Multiply. \n \\ to Divide.")
+op=input("Enter: \n + to add. \n - to subtract. \n * to Multiply. \n \\ to Divide.\n")
 
 if (op == '+'):
     print('The sum is:', a+b)
